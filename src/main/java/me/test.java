@@ -3,9 +3,7 @@ package me;
 public class test {
 
     public static void main(String args[]){
-        KLWDSA;F
-    DAS
+        //git/test1
     System.out.println("test6");
-    DSAD
     }
 }
