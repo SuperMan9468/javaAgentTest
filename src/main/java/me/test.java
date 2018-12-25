@@ -4,6 +4,6 @@ public class test {
 
     public static void main(String args[]){
         //git//test1
-    System.out.println("我是");
+    System.out.println("我是/git/test1");
     }
 }
